@@ -1,4 +1,5 @@
 # 🛠 Tecnologias utilizadas:
+<br>
 <div style="display: inline_block">
   <div align="center">
   <img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
